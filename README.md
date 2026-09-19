@@ -14,7 +14,7 @@
 ### About
 
 - I build software that takes the repetitive preparation off people's plates and leaves every decision with them.
-- I publish the tools I make for my own workflow, mostly around [Claude Code](https://claude.com/claude-code).
+- I publish the tools I make for my own workflow as open source.
 - I'm also building **[wireagent](https://wireagent.co)**, LinkedIn outreach in your own words: agents research each person and draft the message from what you tell them, and nothing is sent until you approve it.
 
 ### Tech stack
@@ -27,7 +27,7 @@
 ### Featured project
 
 **[claude-code-mic](https://github.com/smltown/claude-code-mic)**<br>
-Talk to Claude Code instead of typing. Records your mic, transcribes it, and uses the transcript as your prompt. Zero dependencies on Windows, with optional Whisper backends.
+Voice dictation for your coding assistant. Records your mic, transcribes it, and sends the transcript as your prompt. Zero dependencies on Windows, with optional Whisper backends.
 
 [![Release](https://img.shields.io/github/v/release/smltown/claude-code-mic?style=flat-square)](https://github.com/smltown/claude-code-mic/releases)
 [![License](https://img.shields.io/github/license/smltown/claude-code-mic?style=flat-square)](https://github.com/smltown/claude-code-mic/blob/main/LICENSE)
