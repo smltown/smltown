@@ -20,8 +20,8 @@
 ### Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,py&theme=dark">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py&theme=light" alt="C++, C, Python">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpy&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cpp%2Cc%2Cpy&theme=light" alt="C++, C, Python">
 </picture>
 
 ### Featured project
