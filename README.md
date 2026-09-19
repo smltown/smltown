@@ -20,11 +20,9 @@
 ### Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,nodejs,express,postgres,supabase,docker,kubernetes,aws,cloudflare,powershell&theme=dark">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,supabase,docker,kubernetes,aws,cloudflare,powershell&theme=light" alt="JavaScript, Node.js, Express, PostgreSQL, Supabase, Docker, Kubernetes, AWS, Cloudflare, PowerShell">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,py&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py&theme=light" alt="C++, C, Python">
 </picture>
-
-Also: Playwright, Stripe and Claude Code.
 
 ### Featured project
 
